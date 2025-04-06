@@ -19,21 +19,6 @@ Proyek ini bertujuan untuk melakukan clustering pada dataset **Student Social Ne
 
 ---
 
-## Struktur Proyek 📂
-
-```
-clustering_project/
-├── data/
-│   ├── Student_Social_Network.csv   # Dataset utama untuk clustering
-│
-├── notebooks/
-│   ├── [Clustering]_Submission_Akhir_BMLP_Vanyariska_Indriani.ipynb  # Notebook eksplorasi dan analisis
-│
-├── README.md   # Dokumentasi proyek
-```
-
----
-
 ## Menjalankan Analisis Clustering ⚙️
 
 Jalankan notebook untuk eksplorasi dan analisis:
